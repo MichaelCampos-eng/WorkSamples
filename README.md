@@ -5,12 +5,14 @@ In this folder, there are 4 projects that I would like to share: 2 computer scie
 ## Numc ##
 <p> Course: Machine Structures (April, 2022) <br>
 Professor(s): Nicholas Weaver, Conan McHanon <br>
-Description: Optimized logical operations such as vector and matrix multiplication using Openmp and SIMD in C. </p>
+Description: Optimized logical operations such as vector and matrix multiplication using Openmp and SIMD in C. <br>
+Files Worked On: matrix.c</p>
 
 ## Search ## 
 <p>Course: Artificial Intelligence (September, 2022) <br>
 Professor(s): Igor Mordatch, Peyrin Kao <br>
-Description: Using OOP in Python, implemented DFS, BFS, UCS, and A* search algorithms and visualized them with Pacman finding a path to pellet or eating all pellets on the map. </p>
+Description: Using OOP in Python, implemented DFS, BFS, UCS, and A* search algorithms and visualized them with Pacman finding a path to pellet or eating all pellets on the map. 
+Files Worked on: search.py, searchAgents.py</p>
 
 ## S1xt33n Lab ##
 <p> Course: Designing Information Devices and Systems II (Spring, 2022) <br>
