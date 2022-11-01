@@ -1,6 +1,6 @@
 # WorkSamples
 
-In this folder, there are 4 projects that I would like to share: 2 computer science course projects, 1 lab project, and 1 CalSol project. Class projects only show files modified.
+In this folder, there are 4 projects that I would like to share: 2 computer science course projects, 1 lab project, and 1 CalSol project. 
 
 ## Numc ##
 <p> Course: Machine Structures (April, 2022) <br>
@@ -20,7 +20,7 @@ Description: Over the course of semester, my partner and I implemented linear al
 ## Parser/Decoder ## 
 <p> Club: Calsol, solar panel competitive car team at University of California, Berkeley (October, 2022) <br>
 Program Director: William Ang <br>
-Description: Part of an Android debugger app for car, used Java to parse C header files in order to map variables and structures to a can ID and construct a decoder for every declaration. Goal was to make an intuitive tool to decode a payload, an array of bytes, and return accurate data. Learned to use IAST Eclipse and worked with constructive feedback through code reviews on github. </p>
+Description: Part of an Android debugger app for car, used Java to parse C header files in order to map variables and structures to a can ID and construct a decoder for every declaration. Goal was to make an intuitive tool to decode a payload, an array of bytes, and return accurate data. Learned to use IAST Eclipse and worked with constructive feedback through code reviews on github. Heavy emphasis on clean code and easy to use tool.</p>
 
 BLE Telemetry Repo: <br>
 Github Files https://github.com/CalSol/BleTelemetryApp/tree/main/app/src/main/java/com/example/bottomnav <br>
