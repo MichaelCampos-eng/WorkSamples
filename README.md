@@ -11,7 +11,7 @@ Files Worked On: matrix.c</p>
 ## Search ## 
 <p>Course: Artificial Intelligence (September, 2022) <br>
 Professor(s): Igor Mordatch, Peyrin Kao <br>
-Description: Using OOP in Python, implemented DFS, BFS, UCS, and A* search algorithms and visualized them with Pacman finding a path to pellet or eating all pellets on the map. 
+Description: Using OOP in Python, implemented DFS, BFS, UCS, and A* search algorithms and visualized them with Pacman finding a path to pellet or eating all pellets on the map. <br>
 Files Worked on: search.py, searchAgents.py</p>
 
 ## S1xt33n Lab ##
